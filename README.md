@@ -1,4 +1,4 @@
-This reposotory is a supporting information for the paper titled "rbpTransformer: A novel deep learning model for prediction of RNA and protein bindings."
+This reposotory is a supporting information for the paper titled "rbpTransformer: A novel deep learning model for prediction of piRNA and mRNA bindings."
 
 DATASETS
 The datasets are taken from http://cosbi2.ee.ncku.edu.tw/data_download/piRNA_mRNA_binding 
